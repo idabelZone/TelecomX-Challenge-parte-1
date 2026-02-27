@@ -88,23 +88,7 @@
 **Impacto económico:** Gráficos de densidad que muestran el riesgo en clientes nuevos y de alta facturación.
 ![Distribución de Gastos](distribucion_gastos.png)
 
-
-
 ---
-
-
-
-### **3. Permanencia y Cargos Mensuales**
-
-Gráficos de densidad que muestran el riesgo en clientes nuevos y de alta facturación.
-
-![Distribución de Gastos](Gráficos/distribucion_gastos.png)
-
-
-
----
-
-
 
 ## 📌 Conclusión Clave
 
@@ -176,7 +160,7 @@ pip install pandas numpy matplotlib seaborn jupyter requests chardet scipy
 
 
 
-### **📚 Agradecimientos**
+## **📚 Agradecimientos**
 
 * A **Alura Latam** y **Oracle** por los retos técnicos que impulsan el crecimiento profesional.
 
