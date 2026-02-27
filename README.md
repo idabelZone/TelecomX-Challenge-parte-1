@@ -35,83 +35,150 @@
 * **Riesgo de Ingresos:** El abandono temprano de clientes con facturas altas representa la mayor amenaza financiera.
 ---
 
-## 📁 Estructura del Proyecto
-```text
-Challenge-TelecomX-Alura-One-DS/
-│
-├── /imgs/                      # Capturas de pantalla y gráficos de Churn.
-├── TelecomX_ETL.ipynb          # Notebook principal con ETL y EDA.
-├── TelecomX_Data_Cleaned.csv   # Dataset final procesado.
-└── README.md                   # Documentación técnica.
 
----
+
+
+
+
 ## 📋 Descripción de Archivos Principales
 
+
+
 ### **📄 TelecomX_LATAM.ipynb**
+
 **Análisis de Extremo a Extremo:** Es el núcleo técnico del proyecto. Incluye todo el flujo de trabajo: desde la carga y desanidación de archivos JSON complejos, hasta la limpieza profunda de datos y la generación de los hallazgos estratégicos de negocio.
 
+
+
 ### **📂 data/**
+
 **Gestión de Datos:** Carpeta que aloja el dataset original de la compañía. Se documenta un proceso de transformación donde se inicia con **7,267 registros** y, tras la limpieza de valores nulos y normalización, se obtienen **7,032 registros limpios**.
 
+
+
 ### **📂 Gráficos/**
+
 **Evidencia Visual:** Repositorio de las gráficas generadas (Seaborn y Matplotlib). Estas visualizaciones sirven como soporte para validar los puntos críticos de deserción.
 
+
+
 ### **📄 requirements.txt**
+
 **Reproducibilidad Técnica:** Archivo que especifica las librerías necesarias para ejecutar el proyecto con las versiones exactas.
+
+
 
 ---
 
 ## 🖼️ Ejemplos de Visualización
 
-### **1. Distribución Global de Evasión**
-Visualización de la proporción de clientes que permanecen vs. los que se van.
-![Churn Global](Gráficos/churn_global.png)
+### ### **1. Distribución Global de Evasión**
+**Estado actual:** Visualización de la proporción de clientes que permanecen vs. los que se van.
+![Churn Global](churn_global.png)
 
 ---
 
-### **2. Análisis de Contratos y Pagos**
-Se evidencia que el contrato mensual es el principal motor de fuga.
-![Análisis de Contratos](Gráficos/analisis_contratos.png)
+### ### **2. Análisis de Contratos y Pagos**
+**Segmentos críticos:** Se evidencia que el contrato mensual es el principal motor de fuga.
+![Análisis de Contratos](analisis_contratos.png)
 
 ---
+
+### ### **3. Permanencia y Cargos Mensuales**
+**Impacto económico:** Gráficos de densidad que muestran el riesgo en clientes nuevos y de alta facturación.
+![Distribución de Gastos](distribucion_gastos.png)
+
+
+
+---
+
+
 
 ### **3. Permanencia y Cargos Mensuales**
+
 Gráficos de densidad que muestran el riesgo en clientes nuevos y de alta facturación.
+
 ![Distribución de Gastos](Gráficos/distribucion_gastos.png)
 
+
+
 ---
+
+
 
 ## 📌 Conclusión Clave
+
 > **La deserción no es aleatoria:** Responde a patrones claros de experiencia temprana y tipo de contrato. Resolver el problema requiere un enfoque preventivo en los primeros 6 meses de vida del cliente.
 
+
+
 ---
+
+
 
 ## 🚀 Cómo ejecutar el proyecto
 
+
+
 ### **📍 Opción 1: Google Colab (Recomendado — No requiere instalación)**
+
+
 
 Haz clic en el siguiente botón para abrir el proyecto directamente en la nube:
 
+
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18ubUeVDWU3q-xufZlcwcUsfqjFJrDEUf#scrollTo=mZj6Po-1JIpG)
 
+
+
 1. **Ejecución:** Ve al menú superior y selecciona **Entorno de ejecución > Ejecutar todo** (Runtime > Run all).
+
 2. **Resultados:** El notebook procesará el dataset JSON, hará el ETL y generará las visualizaciones automáticamente.
+
+
 
 ---
 
+
+
 ### **📦 Dependencias principales**
+
+
 
 Para asegurar la reproducibilidad del análisis, se requieren las siguientes librerías:
 
+
+
 | Librería | Versión | Función |
+
 | :--- | :--- | :--- |
+
 | **Pandas** | `2.0.3` | Manipulación y limpieza de datos (ETL) |
+
 | **NumPy** | `1.24.3` | Operaciones numéricas y vectores |
+
 | **Matplotlib** | `3.7.2` | Generación de gráficos base |
+
 | **Seaborn** | `0.12.2` | Visualizaciones estadísticas avanzadas |
+
 | **SciPy** | `1.11.0` | Pruebas de correlación y estadística |
+
 | **Requests** | `2.31.0` | Consumo de datos desde fuentes externas |
 
+
+
 **Instalación manual:**
+
 ```bash
+
 pip install pandas numpy matplotlib seaborn jupyter requests chardet scipy
+
+
+
+### **📚 Agradecimientos**
+
+* A **Alura Latam** y **Oracle** por los retos técnicos que impulsan el crecimiento profesional.
+
+* A la comunidad de **Data Science** por las herramientas de código abierto que hicieron posible este análisis.
+
