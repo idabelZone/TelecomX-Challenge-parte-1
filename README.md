@@ -72,19 +72,19 @@
 
 ## 🖼️ Ejemplos de Visualización
 
-### ### **1. Distribución Global de Evasión**
+### **1. Distribución Global de Evasión**
 **Estado actual:** Visualización de la proporción de clientes que permanecen vs. los que se van.
 ![Churn Global](churn_global.png)
 
 ---
 
-### ### **2. Análisis de Contratos y Pagos**
+### **2. Análisis de Contratos y Pagos**
 **Segmentos críticos:** Se evidencia que el contrato mensual es el principal motor de fuga.
 ![Análisis de Contratos](analisis_contratos.png)
 
 ---
 
-### ### **3. Permanencia y Cargos Mensuales**
+### **3. Permanencia y Cargos Mensuales**
 **Impacto económico:** Gráficos de densidad que muestran el riesgo en clientes nuevos y de alta facturación.
 ![Distribución de Gastos](distribucion_gastos.png)
 
@@ -152,17 +152,24 @@ Para asegurar la reproducibilidad del análisis, se requieren las siguientes lib
 
 
 
-**Instalación manual:**
 
-```bash
+## 📚 Agradecimientos
 
-pip install pandas numpy matplotlib seaborn jupyter requests chardet scipy
+🎓 **Alura Latam** y **Oracle**: Por los retos técnicos y la formación integral a través del programa **ONE (Oracle Next Education)**, que impulsan el crecimiento profesional en tecnología.
+* 🐍 **Comunidad de Data Science**: Por las herramientas de código abierto y la documentación que hicieron posible la ejecución de este análisis.
 
+---
 
+## ✍️ Créditos y Autoría
 
-## **📚 Agradecimientos**
+Este proyecto fue desarrollado como parte del **Challenge Data Science** de **Alura Latam**.
 
-* A **Alura Latam** y **Oracle** por los retos técnicos que impulsan el crecimiento profesional.
+**Desarrollado por:**
+### ✨ **Idabel Coparropa**
+*Data Scientist Enthusiast | Business Analyst*
 
-* A la comunidad de **Data Science** por las herramientas de código abierto que hicieron posible este análisis.
-
+---
+<p align="center">
+  <b>TelecomX Churn Analysis</b> • 2026<br>
+  Hecho con ❤️ y Python por Idabel Coparropa
+</p>  
