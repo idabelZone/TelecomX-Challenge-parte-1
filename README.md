@@ -44,6 +44,7 @@ Challenge-TelecomX-Alura-One-DS/
 ├── TelecomX_Data_Cleaned.csv   # Dataset final procesado.
 └── README.md                   # Documentación técnica.
 
+---
 ## 📋 Descripción de Archivos Principales
 
 ### **📄 TelecomX_LATAM.ipynb**
