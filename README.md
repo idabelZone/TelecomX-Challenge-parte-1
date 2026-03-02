@@ -1,3 +1,5 @@
+![Insignia de licencia]
+(WhatsApp Image 2026-03-02 at 2.13.44PM.jpeg)
 # 📞 Challenge TelecomX - Análisis de Deserción (Churn)
 
 ### **📖 Descripción**
