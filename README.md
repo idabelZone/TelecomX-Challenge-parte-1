@@ -2,7 +2,7 @@
 
 # 📞 Challenge TelecomX - Análisis de Deserción (Churn)
 
-[![Open In Colab](**https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18ubUeVDWU3q-xufZlcwcUsfqjFJrDEUf#scrollTo=mZj6Po-1JIpG**)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18ubUeVDWU3q-xufZlcwcUsfqjFJrDEUf#scrollTo=mZj6Po-1JIpG)
 
 ---
 
