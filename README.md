@@ -164,7 +164,7 @@ Para asegurar la reproducibilidad del análisis, se requieren las siguientes lib
 
 ## ✍️ Créditos y Autoría
 
-Este proyecto fue desarrollado como parte del **Challenge Data Science** de **Alura Latam**.
+Este proyecto fue desarrollado como parte del **Challenge Data Science** de **Alura Latam**. Puede utilizarte siempre y cuando se dé créditos
 
 **Desarrollado por:**
 ### ✨ **Idabel Coparropa**
