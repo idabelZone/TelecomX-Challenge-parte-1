@@ -1,6 +1,10 @@
-(<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/c25b407f-6e50-4ed4-bf29-59531418409a" />
-)
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/c25b407f-6e50-4ed4-bf29-59531418409a" />
+
 # 📞 Challenge TelecomX - Análisis de Deserción (Churn)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18ubUeVDWU3q-xufZlcwcUsfqjFJrDEUf#scrollTo=mZj6Po-1JIpG)
+
+---
 
 ### **📖 Descripción**
 **Telecom X Latam** enfrenta una tasa de deserción significativa. Este proyecto, desarrollado en el marco del **Challenge de Data Science de Alura**, aborda el problema mediante un flujo de ingeniería de datos y un análisis exploratorio exhaustivo sobre una base de **7,032 clientes**.
