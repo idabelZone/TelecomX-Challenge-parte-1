@@ -118,7 +118,7 @@ Haz clic en el siguiente botón para abrir el proyecto directamente en la nube:
 
 
 
-[![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18ubUeVDWU3q-xufZlcwcUsfqjFJrDEUf#scrollTo=mZj6Po-1JIpG](https://colab.research.google.com/github/idabelZone/TelecomX-Challenge-parte-1/blob/main/TELECOM_X.ipynb))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18ubUeVDWU3q-xufZlcwcUsfqjFJrDEUf#scrollTo=mZj6Po-1JIpG)
 
 
 
